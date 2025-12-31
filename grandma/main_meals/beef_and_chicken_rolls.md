@@ -6,6 +6,10 @@ In Japanese cooking, beef is often thinly sliced and prepared with vegetables. T
 
 **Note**: Other vegetables may also be used in these rolls.
 
+*sauce, vegan, grandma*
+
+**4 Servings, 200g**
+
 ---
 
 - Carrots (15 cm)
