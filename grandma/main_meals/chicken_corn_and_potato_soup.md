@@ -1,5 +1,7 @@
 # Chicken, Corn And Potato Soup
 
+*mains, grandma*
+
 ---
 
 - *500 g* diced chicken breasts

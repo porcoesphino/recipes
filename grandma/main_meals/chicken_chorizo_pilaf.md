@@ -1,5 +1,7 @@
 # Chicken Chorizo Pilaf
 
+*mains, grandma*
+
 ---
 
 - *4* cloves garlic Chorizo Sausages

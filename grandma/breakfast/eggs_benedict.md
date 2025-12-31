@@ -2,6 +2,8 @@
 
 A great favourite when we had the B & B.
 
+*breakfast, grandma*
+
 **8 Servings**
 
 ---

@@ -1,5 +1,7 @@
 # Brown Rice And Nut Salad
 
+*mains, grandma*
+
 ---
 
 - *1 cup* Brown Rice (Uncooked) - cook and cool
