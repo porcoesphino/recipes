@@ -4,6 +4,8 @@ From Naoyo.
 
 In Japanese cooking, beef is often thinly sliced and prepared with vegetables. This dish uses carrots and green beans wrapped in beef and sautéed in oil, which allows the carotene in the vegetables to be more readily absorbed by the body. The rolls can be cut as you like, but slicing them at a diagonal will provide a more colourful result. Chicken can also be used instead of the beef.
 
+**Note**: Other vegetables may also be used in these rolls.
+
 ---
 
 - Carrots (15 cm)
@@ -28,7 +30,3 @@ In Japanese cooking, beef is often thinly sliced and prepared with vegetables. T
 4. Heat the vegetable oil in a frying pan and add the beef rolls, rolled ends facing down, and sauté over high heat until brown. Add the seasoning ingredients and continue to cook over medium heat for 2 minutes. Remove the rolls from the pan.
 5. Continue to simmer the remaining sauce for a few minutes until it is reduced and thickened. Return the rolls to the pan and turn them over gently to coat evenly with the sauce.
 6. Slice the rolls diagonally and arrange on individual serving dishes.
-
-<!-- TODO: This comment was in the description but it's parsed as a serving. -->
-
-**Note**: Other vegetables may also be used in these rolls.
