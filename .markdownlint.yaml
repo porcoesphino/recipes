@@ -1,0 +1,9 @@
+# https://github.com/DavidAnson/markdownlint/blob/v0.38.0/schema/.markdownlint.yaml
+
+# MD013/line-length : Line length : https://github.com/DavidAnson/markdownlint/blob/v0.38.0/doc/md013.md
+# Enforcing line length isn't needed on modern computers and adds overhead.
+MD013: false
+
+# MD036/no-emphasis-as-heading: Emphasis used instead of a heading https://github.com/DavidAnson/markdownlint/blob/v0.40.0/doc/md036.md
+# These are expected for the servings and tags. They're not headings.
+MD036: false
